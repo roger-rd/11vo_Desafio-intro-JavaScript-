@@ -1,0 +1,39 @@
+#resultadoColor {
+    display: inline-block;
+    background-color: white;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+  }
+
+h5{
+  margin-left: 5%;
+  margin:0;
+  margin-bottom: 0;
+}
+
+#cantidad {
+  
+  width: 110px;
+  margin-left: 20% ;
+}
+#color {
+
+  width: 110px;
+  margin-left: 20% ;
+}
+
+
+#btnTotal{
+  margin-left: 25%;
+}
+
+#precio{
+  margin-left: 25%;
+}
+
+#resultado{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
